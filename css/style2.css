@@ -77,3 +77,47 @@ h3{
     'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    
 }
+h4{
+    text-align: left;
+}
+
+h4.centre{
+    text-align: center;
+}
+
+p.taile{
+
+    font-size: 12px;
+    text-align: center;
+    
+}
+a.couleur{
+    color:#4B1E60 ;
+}
+p.logo{
+    background-color: #4B1E60;
+    color: white;
+    width:820px;
+    margin-left: 10px;
+    height:23px;
+    padding-top: 3px;
+
+}
+
+footer{
+    width: 800px;
+    margin:0 auto;
+    font-size: 13px;
+}
+h2:before{
+        content: "";
+        display: block;
+        width: 120px;
+        height: 2px;
+        background: #000;
+        position: absolute;
+        left: 0;
+        top: 97%;
+    }
+
+  
